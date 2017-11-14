@@ -1,0 +1,78 @@
+/*theme by ayoub adib*/
+/*lux css - type 1*/
+/*date: 30 oct 2013*/
+/*http://www.facebook.com/adib.2017*/
+
+body {background:#fff;margin:0;padding:0;color:#444}
+#header {background:#eee;margin:0;padding:0}
+.heading {margin:0;padding:7px 5px;font-size:small}
+.description {margin:0;padding:20px 5px 7px 5px;font-size:small;color:#666}
+#navigation {background:#212c29;margin:0;padding:0;text-align:center;border-bottom:3px solid #007dbd}
+#navigation span {width:32%;display:inline-block;padding:7px 0;text-align:center;margin:0 -1px 0 0;}
+#navigation span+span+span a {content:"Menu"}
+#navigation a {color:#eee;text-shadow:#000 1px 1px 1px}
+#top-content {background:#ccc;margin:0;padding:6px 0;text-align:center;border-bottom:1px solid #eee}
+#content {margin:0;padding:0;border-top:1px solid #bbb;background:#eee}
+#search-form [type=text] { width:60%;background:#fffeff;padding:3px;margin:1px;color:#333;border:1px solid #bbb} 
+#search-form [type=submit] {;width:23%;margin:1px;padding:3px;border:1px solid #006cab;color:#ffe;background:#007dbc}
+.post-meta .title,.categories {margin:0;padding:2px 0;font-size:small}
+.post {margin:0;padding:0;border-bottom:1px solid #ccc;border-top:1px solid #fff}
+.post-meta {margin:0;padding:5px;color:#888}
+.post-content {margin:0;padding:3px 5px 7px 5px}
+.thumbnail{border:1px solid #666 !important;margin:2px 2px 0 0 !important;width:50px !important;height:60px !important;padding:1px !important}
+.post-meta2 {margin:0;padding:0 5px 9px 5px;text-align:left}
+.post-meta2 a {background:#007dbd;margin:0;padding:3px 14px;color:#ffe;}
+.post:first-child {border-top:none}
+.post-meta .title,.post-meta a {color:#222;text-shadow:#fff 1px 1px 1px}
+#pagination-links {border-top:1px solid #eee;text-align:center;margin:0;padding:1px 3px 3px 3px;background:#ddd} 
+#pagination-links span {padding:4px;display:inline-block;background:#fffeff;border:1px solid #ccc} 
+#pagination-links a {padding:4px;background:#007dbc;color:#ffe;display:inline-block;margin-top:2px;text-decoration:none;} 
+#pagination-links a:hover {text-decoration: none;}
+#bottom-content {background:#ddd;padding-bottom:1px}
+h3,#recent-posts-list h4,#following-list h4 {background:#212c29;margin:0;padding:7px;border-bottom:3px solid #007dbd;color:#ffe;text-shadow:#000 1px 1px 1px}
+ul {background:#eee;border:1px solid #ccc;margin:5px;padding:0}
+ol {margin:0;padding:0}
+#recent-posts-list li,#blogroll_list li,#following-list li {list-style:none;margin:0;padding:5px;border-top:1px solid #fff;border-bottom:1px solid #d7d7d7}
+#category-bottom li,#blogroll li,#navigation-menu li {list-style:none;margin:0;padding:5px;border:1px solid #fff;border-color:#fff #fff #d6d6d6 #fff}
+#category-bottom li {text-align:right}
+#blogroll li:after {content:"";border:5px solid #555;border-color:transparent transparent transparent #555;float:right}
+#blogroll li {padding-right:0 }
+#category-bottom li a {float:left}
+h6 {margin:0;padding:0}
+#footer {text-align:center;margin:0;padding:5px;background:#212c29;border-top:3px solid #007dbd;color:#ddd}
+.post-single .post-content {background:#f5f5f5;margin:0 5px;padding:9px 5px;border:1px solid #d1d1d1}
+#share-buttons {margin:0;padding:5px;}
+#share-buttons img {width:20px;height:18px}
+#share-buttons:before {content:"Share On : "}
+#comments h4 {margin:0;padding:5px;border-bottom:1px solid #fff}
+#comments h5 {margin:0;padding:5px;border-top:1px solid #ddd}
+.comment-header .title {border:none !important;padding:0 !important}
+.comment {margin:5px;padding:0;background:#f5f5f5;border:1px solid #d5d5d5}
+.comment-header {margin:0;padding:3px;color:#888;border:1px solid #fff;border-bottom:none}
+.comment-content {margin:0;padding:5px 3px;border:1px solid #fff;border-top:none;}
+.comment-header .title:before {content:"";border:5px solid #555;border-color:transparent transparent transparent #555;float:left}
+#comment_form {text-align:left;margin:0;padding:5px;background:#f1f1f1;border:5px solid #d2d2d2} 
+#comment_form textarea{width:80%;margin:2px 0;padding:10px 0}
+#comment_form input[type=text],.mobile_body #comment_form select{width:50%;margin:2px 0;} 
+#comment_form [type=submit] {margin:2px 0;background:#007dbd;color:#ffe;border:1px solid #006cac;padding:3px}
+#comments li {margin:0;padding:5px;list-style:none;text-align:center;background:#fff}
+.highlight {margin:0;padding:6px;text-align:center}
+.post-single .post-content h4 {margin:2px -3px;background:#eee;border:1px solid #ddd;color:#333;padding:4px;text-align:center;} 
+.post-single .post-content h4 a {display:inline-table;width:40%}
+.post-single .post-content h3,.post-single .post-content h1,.post-single .post-content h2,.post-single .post-content h5,.post-single .post-content h6 {margin:2px -3px;text-align:center;background:#eee;border:1px solid #ddd;color:#333;padding:3px;text-shadow:none}
+.post-content ol {margin:0 -3px;padding:0;background:#eee}
+.post-content li {list-style:none;margin:0;padding:5px;border:1px solid #fff;border-bottom:1px solid #d7d7d7}
+a,.post-content h3 a,.post-content h4 a,.post-content h5 a {color:#117dbd;text-shadow:#fff 1px 1px 1px}
+#navigation-menu h5 {margin:-5px;padding:5px;background:#ddd;color:#333}
+#navigation-menu li h3 {margin:-5px;padding:5px;}
+h3 a,h3 a {color:#ffe;text-shadow:#000 1px 1px 1px}
+#footer a {text-shadow:none}
+#footer h6:before {content:"fmb_" !important;display:inline !important}
+.date {display:none}
+body img {max-width:80%;max-height:80%}
+#blogroll_list li:last-child,#following-list li:last-child,#recent-posts-list li:last-child,#navigation-menu li.last,#blogroll li.last,#category-bottom li.last {border-bottom:1px solid #fff !important}
+#blogroll_list li:first-child,#following-list li:first-child,#recent-posts-list li:first-child {border-top:none !important}
+.post-meta2 a,#pagination-links a {text-shadow:none}
+#footer img {display:none}
+#footer:after {content:"ayoub adib" !important;margin:3px -5px -5px -5px;padding:5px;display:block !important;font-size:small !important}
+#footer span {background:transparent !important;border:none !important;color:#eee !important}
